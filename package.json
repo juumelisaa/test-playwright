@@ -2,11 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "playwright test --ui",
-    "test:headless": "playwright test --headless",
-    "test:report": "playwright test --reporter=html"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
